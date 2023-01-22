@@ -7,4 +7,4 @@ This package will accept three arguments during file execution:
 install pandas,sys,operator and math libraries before installing this
 //
 You can install this package using following command
-pip install topsis_Deepak_102003129
+pip install Topsis_Simran_102003169
