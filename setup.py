@@ -13,7 +13,7 @@ setup(
     # Provide either the link to your github or to your website
     url='https://github.com/simranbhalla3/Topsis_Simran_102003169',
     # I explain this later on
-    download_url='https://github.com/deepak026/Topsis-DeepakBan-102003129/archive/refs/tags/v_0.1.tar.gz',
+    download_url='https://github.com/simranbhalla3/Topsis_Simran_102003169/archive/refs/tags/v_0.1.tar.gz',
     keywords=['topsis'],   # Keywords that define your package best
     install_requires=[            # I get to this in a second
         'numpy',
